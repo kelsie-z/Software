@@ -62,5 +62,6 @@
    <machine name="thing"           address="thing.local"          user="ubuntu" env-loader="$(arg env_script_path)"/>
    <machine name="trabant"         address="trabant.local"        user="ubuntu" env-loader="$(arg env_script_path)"/>
    <machine name="wama"            address="wama.local"           user="ubuntu" env-loader="$(arg env_script_path)"/>
+   <machine name="KelsieDuckieBot"            address="KelsieDuckieBot.local"           user="ubuntu" env-loader="$(arg env_script_path)"/>
 </launch>
 
